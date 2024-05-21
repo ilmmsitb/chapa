@@ -1,0 +1,5 @@
+﻿  lab2.cpp
+C:\VS\lab2\lab2\lab2.cpp(9,17): warning C4305: инициализация: усечение из "int" в "unsigned char"
+C:\VS\lab2\lab2\lab2.cpp(9,18): warning C4309: инициализация: усечение константного значения
+C:\VS\lab2\lab2\lab2.cpp(14,9): warning C4244: =: преобразование "double" в "unsigned char", возможна потеря данных
+  lab2.vcxproj -> C:\VS\lab2\x64\Debug\lab2.exe
